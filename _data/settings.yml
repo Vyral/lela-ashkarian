@@ -15,7 +15,9 @@ client:
   title:
   license_number:
   about_markdown: |
+    As a Real Estate Top Agent/Consultant for Coldwell Banker Schmitt Real Estate, a prime real estate company of the Florida Keys area. With over 22 years of experience in the industry, Lela is highly regarded by co-workers and clients for her professionalism and keen industry knowledge. On a daily basis, she has primarily engaged in advertising ocean and beachfront properties, generating leads, screening potential buyers, setting up appointments, and researching competitive market prices. That's what this business is all about for Lela.
 
+    Growing up in the Keys has allowed Natalie to know the area better than most which is important to potential customers when searching for Real Estate or selling with the number 1 company in the Keys. Joining Coldwell Banker Schmitt Real Estate Co. in 2010, she was given a wonderful opportunity to help others find their piece of paradise. Natalie joined with a top producing agent in 2011 as an assistant and Realtor Associate. Natalie had a great experience being able to learn from such an accomplished agent. In 2013 the 4 person team did $28.8 Million in Sales Volume, a great accomplishment being #2 in the company.
   brand: Luxury Island Properties
   brokerage: Coldwell Banker - Schmitt Real Estate Co.
   market:
@@ -85,6 +87,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
+  client_headshot_path2: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: -- MARKET -- Real Estate Video Blog

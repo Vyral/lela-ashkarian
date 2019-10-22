@@ -2318,7 +2318,7 @@ table tr, table td {
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: flex; }
+    display: block; }
 
 .about-text {
   display: flex;
@@ -2600,7 +2600,6 @@ form select {
   font-size: 18px; }
 
 .recruiting-photo {
-  float: right;
   margin: 20px; }
 
 #page-bkg {
