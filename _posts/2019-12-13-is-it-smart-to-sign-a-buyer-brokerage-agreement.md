@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It Smart to Sign a Buyer Brokerage Agreement?
-date: 2019-12-13 19:36:32
+date: 2019-12-13 19:36:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: UiqtlhZ0QxY
 
 There are many different reasons to sign a buyer brokerage agreement, but we’re going to focus on five of the most important today:
 
-**1\. You will receive a higher level of service from your agent.**<br><br>**2\. You will get more without paying more.**<br><br>**3\. You’ll avoid misunderstandings when it comes to who pays the commission** (the seller).
+**1\. You will receive a higher level of service from your agent.**<br><br>**2\. You will get more without paying more.**<br><br>**3\. You’ll avoid misunderstandings when it comes to who pays the commission.** (the seller).
 
 {% include pullquote.html %}
 
