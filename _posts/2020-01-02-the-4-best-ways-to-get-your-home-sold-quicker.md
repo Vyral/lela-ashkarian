@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 4 Best Ways to Get Your Home Sold Quicker
-date: 2020-01-02 20:53:58
+date: 2020-01-02 20:53:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,11 +19,11 @@ youtube_code: kS4ChX3wjZ8
 
 {% include youtube.html %}
 
-Here are the top four reasons that move the needle and help you get your home sold quicker:
+Here are the top four factors that move the needle and help you get your home sold quicker:
 
 **1\. Price.** If a home isn’t priced correctly, buyers will dismiss and ignore it.
 
-**2\. Location.** Down here in the Keys, location is key. Whether or not you’re on the waterfront, you have a dock, or not the neighborhood allows vacation rentals are all important factors within this.
+**2\. Location.** Down here in the Keys, location is key. Whether or not you’re on the waterfront, have a dock, or the neighborhood allows vacation rentals are all important factors.
 
 {% include pullquote.html %}
 
