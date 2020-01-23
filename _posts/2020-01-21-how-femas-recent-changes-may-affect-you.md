@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/flood-insurance-youtube.jpg
-youtube_code: CJo8EvIxJ2E
+youtube_code: OZLqnVugQqQ
 ---
 
 {% include youtube.html %}
