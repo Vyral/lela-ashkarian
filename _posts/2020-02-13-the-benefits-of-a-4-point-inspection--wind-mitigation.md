@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of a 4-Point Inspection & Wind Mitigation
-date: 2020-02-13 22:45:05
+date: 2020-02-13 22:45:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -12,8 +12,8 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Lela+Ashkarian/Videos/2020/The+Benefits+of+a+4-Point+Inspection+%26+Wind+Mitigation.mp4
 pullquote: >-
-  They’re needed to determine what type of credit you’ll be able to apply for
-  your home.
+  These inspections are needed to determine what type of credit you’ll be able
+  to apply for your home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -33,6 +33,6 @@ As part of the wind mitigation assessment, an inspector will check out your wind
 
 It’s recommended that every homebuyer schedule these inspections. They’re needed to determine what type of credit you’ll be able to apply for your home.&nbsp;
 
-Since these reports impact hombuyer’s insurance policies, cash buyers and mortgaged offerers will both need these. A four-point inspection may take an hour to an hour and a half, whereas the wind mitigation inspection may only last 30 minutes. Keep in mind that a full inspection of a home could last anywhere from two to four hours, depending on the house’s size.
+Since these reports impact hombuyers' insurance policies, cash buyers and mortgaged offerers will both need these. A four-point inspection may take an hour to an hour and a half, whereas the wind mitigation inspection may only last 30 minutes. Keep in mind that a full inspection of a home could last anywhere from two to four hours, depending on the house’s size.
 
 If you’re ready to schedule these inspections, reach out to Hans van Aller and his team at any time. As always, call or email us with questions on this or any other real estate topic. We’d love to hear from you.&nbsp;
