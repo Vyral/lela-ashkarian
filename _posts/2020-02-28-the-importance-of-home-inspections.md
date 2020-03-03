@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/home-inspection-youtube.jpg
-youtube_code: K5A_wpny5sA
+youtube_code: s6Sdzeig_pU
 ---
 
 {% include youtube.html %}
