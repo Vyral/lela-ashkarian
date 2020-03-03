@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Home Inspections
-date: 2020-02-28 21:17:18
+date: 2020-02-28 21:17:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -20,11 +20,11 @@ youtube_code: K5A_wpny5sA
 
 {% include youtube.html %}
 
-We’re back again with Hans Van Aller with Lowkey Home Inspections to discuss the importance of having a home inspection done, for both buyers and sellers. It’s critical to have a home inspection because they’re an excellent way to identify any potential issues with a house. Both buyers and sellers and run into trouble if they do not have an inspection done.
+We’re back again with Hans Van Aller with Lowkey Home Inspections to discuss the importance of having a home inspection done, for both buyers and sellers. It’s critical to have a home inspection because they’re an excellent way to identify any potential issues with a house. Both buyers and sellers run into trouble if they do not have an inspection done.
 
 **For buyers:&nbsp;**
 
-For buyers, a home inspection is crucial because it could be used for a contingency in your contract with the seller. An inspection also shows warning signs to buyers. If a buyer has an inspection done, they can use any issues found in their negotiation process if a seller does not fix something. Inspections help buyers to plan ahead and feel confident about what they’re buying. Home inspectors go top to bottom, inside and out, and typically take about two to four hours to look over everything on a property. They’ll check the electrical, plumbing, attic, roof, the home’s structure, and so on. We always encourage buyers to have a home inspection done before closing.
+For buyers, a home inspection is crucial because it could be used for a contingency in your contract with the seller. An inspection also shows warning signs to buyers. If a buyer has an inspection done, they can use any issues found in their negotiation process if a seller does not fix something. Inspections help buyers to plan ahead and feel confident about what they’re buying. Home inspectors go top to bottom, inside and out, and typically take about two to four hours to look over everything in a property. They’ll check the electrical, plumbing, attic, roof, the home’s structure, and so on. We always encourage buyers to have a home inspection done before closing.
 
 {% include pullquote.html %}
 
