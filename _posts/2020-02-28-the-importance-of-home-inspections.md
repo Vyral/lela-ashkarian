@@ -20,7 +20,7 @@ youtube_code: s6Sdzeig_pU
 
 {% include youtube.html %}
 
-We’re back again with Hans Van Aller with Lowkey Home Inspections to discuss the importance of having a home inspection done, for both buyers and sellers. It’s critical to have a home inspection because they’re an excellent way to identify any potential issues with a house. Both buyers and sellers run into trouble if they do not have an inspection done.
+We’re back again with Hans Van Aller with Lowkey Home Inspections to discuss the importance of having a home inspection done, for both buyers and sellers. It’s critical to have a home inspection because they’re an excellent way to identify any potential issues with a house. Both buyers and sellers run into trouble if they do not have an inspection done.&nbsp;
 
 **For buyers:&nbsp;**
 
