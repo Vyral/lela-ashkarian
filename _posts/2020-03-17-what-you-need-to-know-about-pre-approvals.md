@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Pre-Approvals
-date: 2020-03-17 22:12:08
+date: 2020-03-17 22:12:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -33,7 +33,7 @@ When you’re going out to look at a home you want to buy, you’ll want to be a
 
 **What does the application process look like?**
 
-You can apply for a pre-approval at Mortgage Lending Solutions for free in person, over the phone, or online. This is only step one of the process, whichgives your lender a financial picture—where you live, where you work, what assets you have, etc.
+You can apply for a pre-approval at Mortgage Lending Solutions for free in person, over the phone, or online. This is only step one of the process, which gives your lender a financial picture—where you live, where you work, what assets you have, etc.
 
 After this application, be prepared to provide important income and tax documentation to your lender. Those who are self-employed will need to provide their tax returns; those who work for a company will need to provide their pay stubs and W-2s.
 
