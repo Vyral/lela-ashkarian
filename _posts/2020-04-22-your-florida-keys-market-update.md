@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Florida Keys Market Update
-date: 2020-04-22 17:37:10
+date: 2020-04-22 17:37:00
 tags:
   - Market Update
 excerpt: 'Despite the coronavirus, our Florida Keys market is still moving forward.'
@@ -23,7 +23,7 @@ What’s the latest news from our Florida Keys real estate market?
 
 Our industry continues to operate one day at a time the best it can, and **we’ve had to make some changes to adapt to the times.** We agents are taking the necessary precautions to keep us and our customers safe.&nbsp;
 
-The Keys is still closed to any visitors for the time being. The roadblocks are up, and airport restrictions are tightening. We’re not sure when it will be reopened, but at the moment, only residents, property owners, leasees, or those who have a work permit in Monroe County are allowed.
+The Keys are still closed to any visitors for the time being. The roadblocks are up, and airport restrictions are tightening. We’re not sure when it will be reopened, but at the moment, only residents, property owners, leasees, or those who have a work permit in Monroe County are allowed.
 
 {% include pullquote.html %}
 
