@@ -19,7 +19,7 @@ youtube_code: 2OaMB-dviUM
 
 {% include youtube.html %}
 
-*FYI - There has been an update to the entry guidelines into the county as of April 17th, 2020, which was added after this video was shot.*<br><br>What’s the latest news from our Florida Keys real estate market?
+*FYI - There has been an **[update to the entry guidelines](https://vyralmarketing.s3.amazonaws.com/Lela+Ashkarian/Entry+guidelines.pdf){: target="_blank"}** into the county as of April 17th, 2020, which was added after this video was shot.*<br><br>What’s the latest news from our Florida Keys real estate market?
 
 Our industry continues to operate one day at a time the best it can, and **we’ve had to make some changes to adapt to the times.** We agents are taking the necessary precautions to keep us and our customers safe.&nbsp;
 
