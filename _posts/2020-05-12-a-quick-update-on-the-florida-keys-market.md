@@ -21,9 +21,9 @@ I hope all is well with you and your family as we continue to navigate what’s 
 
 As of last Monday, most non-essential businesses here in the Keys were allowed to reopen at a 25% capacity. This means that restaurants, retail stores, and more are opening back up.
 
-{% include pullquote.html %}
-
 As for our real estate market, things are going very well. We’re a big second home market so we’re used to coordinating virtual showings, but we’ve been implementing Facetime and Zoom into our business as well. **This technology has allowed us to have at least one home go under contract every week since the beginning of April.** Showing properties with masks on is a little strange, but we’re taking every necessary precaution to help protect our clients.
+
+{% include pullquote.html %}
 
 A lot of homeowners are deciding to take their homes off of the market temporarily, but this is leaving the door open for other homeowners to take advantage of. We have strong demand from buyers in the marketplace right now because of low-interest rates, and those who chose to list now can take advantage of that fact. We’re making it really easy for homebuyers to buy virtually right now and you could sell your home without ever having to bring a buyer inside.
 
