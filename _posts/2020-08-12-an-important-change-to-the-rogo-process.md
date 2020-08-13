@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Important Change to the ROGO Process
-date: 2020-08-12 19:49:23
+date: 2020-08-12 19:49:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rogo-yt.jpg
-youtube_code: ijaLVf0fnGw
+youtube_code: 6ZwH0h3pXpI
 ---
 
 {% include youtube.html %}
