@@ -21,7 +21,7 @@ youtube_code: wkbVurorxLc
 
 {% include youtube.html %}
 
-Before this year, permits for new buildings in Monroe County were set to expire by 2023, as mandated by the state. This February, however, unincorporated Monroe County adopted an ordinance that extended those permits until 2026. That doesn’t mean we’re getting more building permits; it just means they’re going to allocate less per quarter than they have in the past.
+Before this year, permits for new buildings in Monroe County were set to expire by 2023, as mandated by the state. This February, however, change in the ROGO process or Unincorporated Monroe County adopts an ordinance for new building permits. That doesn’t mean we’re getting more building permits; it just means they’re going to allocate less per quarter than they have in the past.
 
 {% include pullquote.html %}
 
