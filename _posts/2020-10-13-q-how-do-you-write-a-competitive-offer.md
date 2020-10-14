@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here are six tips to help you write a more competitive offer in today’s
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lela+Ashkarian/Videos/2020/Q%3A+How+Do+You+Write+a+Competitive+Offer%3F.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
