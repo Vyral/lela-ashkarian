@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/competitive-offer-yt.jpg
-youtube_code: t-zRCgb8zXA
+youtube_code: Ke988Sqg3EA
 ---
 
 {% include youtube.html %}
