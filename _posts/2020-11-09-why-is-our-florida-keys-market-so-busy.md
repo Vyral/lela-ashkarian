@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Is Our Florida Keys Market So Busy?
-date: 2020-11-09 22:31:20
+date: 2020-11-09 22:31:00
 tags:
   - Market Update
 excerpt: Here’s what the latest figures say about our Florida Keys market.
@@ -20,7 +20,7 @@ youtube_code: orIshKIp2eE
 
 As I’m sure you’ve heard, our residential Florida Keys real estate market has been extremely busy.&nbsp;
 
-Pending transactions are up tremendously. We’re even on pace to break a record this year; we haven’t seen numbers like this since 2004. This is partially attributable to the fact that everything shut down for a couple of months earlier in the year and created a rush of pent-up demand. Interest rates are also extremely low, which is increasing buyers’ purchasing power.&nbsp;
+Pending transactions are up tremendously. We’re even on pace to break a record this year; we haven’t seen numbers like this since 2004. This is partially attributable to the fact that everything shut down for a couple of months earlier in the year and created a rush of pent-up demand. Interest rates are also extremely low, which is increasing buyers’ purchasing power.
 
 {% include pullquote.html %}
 
