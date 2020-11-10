@@ -27,11 +27,11 @@ Pending transactions are up tremendously. We’re even on pace to break a record
 **Here’s a quick statistical overview comparing the first nine months of this year to the first nine months of 2019 (based on all property types):**
 
 * Sales increased 7% from 2,177 to 2,329
-* The average sale price rose 6.4% from $660,216 to $620,338—we’ve seen many properties fetch multiple offers and close near their original list price, which has aided this increase
+* The average sale price rose 6.4% from $620,338 to $660,216—we’ve seen many properties fetch multiple offers and close near their original list price, which has aided this increase
 * The average list price rose 8.9% from $981,021 to $1,067,918
 * The average days on market rose 2.5% from 120 to 123 days—we’re a big secondary-home market, so this metric can change depending on when buyers are in our market
 * The properties for sale dropped 10.3% from 2,318 to 2,080
 
-**When inventory drops like this, it creates demand and boosts sales.** Also contributing to this demand are low interest rates. I recently checked, and Freddie Mac is offering rates as low as 2.81% for a 30-year fixed mortgage. This has greatly increased buyers’ purchasing power. Getting a mortgage rate that low means more money goes toward the principal than the interest itself. If you’d like to dive deeper into the Keys-wide market stats, you can view the Coldwell Banker Schmitt’s Real Estate Report here.&nbsp;
+**When inventory drops like this, it creates demand and boosts sales.** Also contributing to this demand are low interest rates. I recently checked, and Freddie Mac is offering rates as low as 2.81% for a 30-year fixed mortgage. This has greatly increased buyers’ purchasing power. Getting a mortgage rate that low means more money goes toward the principal than the interest itself. If you’d like to dive deeper into the Keys-wide market stats, you can view the Coldwell Banker Schmitt’s Real Estate Report [here.](https://www.realestatefloridakeys.com/coldwell-banker-schmitts-real-estate-report-and-archives){: target="_blank"}&nbsp;
 
 If you have questions about our Florida Keys market or are thinking of buying or selling a home soon, don’t hesitate to call or email me. I look forward to speaking with you soon.
