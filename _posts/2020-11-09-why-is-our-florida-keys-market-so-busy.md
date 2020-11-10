@@ -5,7 +5,8 @@ date: 2020-11-09 22:31:00
 tags:
   - Market Update
 excerpt: Here’s what the latest figures say about our Florida Keys market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lela+Ashkarian/Videos/2020/Why+Is+Our+Florida+Keys+Market+So+Busy%3F.mp4
 pullquote: >-
   We’re on pace to break a record this year; we haven’t seen numbers like this
   since 2004.
