@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in the Keys Market?
-date: 2021-03-15 18:05:25
+date: 2021-03-15 18:05:00
 tags:
   - Market Update
 excerpt: Here’s a look at our February stats and how they compare to last year.
@@ -20,8 +20,8 @@ youtube_code: RhUg-Mu7MB8
 
 The latest numbers are in for the Florida Keys real estate market and I’m excited to share them with you today. Compared to last year, there was quite a change in the numbers. **All of these statistics are through the end of February 2021 as compared to February 2020:**
 
-* Florida Keys sales have increased by 55.7%
-* The average sale price is up 44% to right around $860,000 Keys-wide
+* Florida Keys sales have increased 55.7%.
+* The average sale price is up 44% to right around $860,000 Keys-wide.
 * Days on market is stable—right around 111 days. This may start to trend downward in the next few months.
 * Pending transactions (i.e. when a property goes under contract) are up 61% over last year. We had 714 properties under contract at the end of February 2021 compared to 441 in February 2020.
 
