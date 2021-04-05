@@ -1,11 +1,12 @@
 ---
 layout: post
 title: How Interest Rates Affect Home Purchasing Power
-date: 2021-04-05 20:15:52
+date: 2021-04-05 20:15:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s an illustration of just how much rates affect buyer affordability.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lela+Ashkarian/Videos/2021/How+Interest+Rates+Affect+Home+Purchasing+Power.mp4
 pullquote: You’ll want to lock in a rate before they go up even further.
 enclosure_type: video/mp4
 enclosure_time:
