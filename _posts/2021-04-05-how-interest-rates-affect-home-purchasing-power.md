@@ -22,10 +22,10 @@ In case you haven’t heard already, **we’ve seen an uptick in interest rates 
 
 At 1:03, you’ll see a chart of three different interest rates for a purchase price of $685,000 and a 20% down payment of $137,000. That leaves you with a mortgage balance of $548,000.&nbsp;
 
-At a 2.65% interest rate like we had for the last few months, the monthly payment was $2,208. When those rates went up to 3%, your payment would go up by $102 per month (about 5%). If interest rates climb to 4%, your monthly payment would go up by $306 (11%). As you can see, **the lower the rate, the more affordable a home is every month.**
+At a 2.65% interest rate like we had for the last few months, the monthly payment was $2,208. When those rates went up to 3%, your payment would have gone up by $102 per month (about 5%). If interest rates climb to 4%, your monthly payment will go up by $306 (11%). As you can see, **the lower the rate, the more affordable a home is every month.**
 
 {% include pullquote.html %}
 
-Let’s say we have a buyer who already knows what they want their monthly payment to be. At 2:49 in the video, you’ll see that we can work backward from that number and give them the right price range they should be looking at. At a 2.65% rate, the monthly payment would be good for a $573,000 mortgage and a $710,000 home. When rates hit 3%, those numbers go down to $548,000 and $680,000. When rates go up to 4%, you’d only be able to afford a $463,000 mortgage and a $600,000 loan. Your purchasing power would be 11% lower than it was when rates were at 2.65%.
+Let’s say we have a buyer who already knows what they want their monthly payment to be. At 2:49 in the video, you’ll see that we can work backward from that number and give them the right price range they should be looking at. At a 2.65% rate, the monthly payment would have been good for a $573,000 mortgage and a $710,000 home. When rates hit 3%, those numbers would have gone down to $548,000 and $680,000. When rates go up to 4%, you’d only be able to afford a $463,000 mortgage and a $600,000 loan. Your purchasing power would be 11% lower than it was when rates were at 2.65%.
 
 If you’ve been thinking about buying a home, you’ll want to lock in a rate before they go up to that 4% range. If you have questions for us about these numbers, mortgages, or anything else related to real estate, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
