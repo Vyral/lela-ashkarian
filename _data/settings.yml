@@ -53,9 +53,9 @@ forms:
   sitekey: 6LePI4YaAAAAAH9Ntd6Q6xQl5b7Gd1RUNVtsfG8Y
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: 'https://www.searchfloridakeyshomes.com/sell/default0003'
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: 'https://www.searchfloridakeyshomes.com/search'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
