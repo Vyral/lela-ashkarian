@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Watersports Lifestyle in the Florida Keys
-date: 2021-05-24 17:06:56
+date: 2021-05-24 17:06:00
 tags:
   - Home Buyer Tips
 excerpt: Florida has all kinds of fun watersports for visitors and residents.
@@ -22,6 +22,6 @@ I want to let you know about the fun lifestyle that we enjoy here in the Florida
 
 {% include pullquote.html %}
 
-It's a great time to get out whether you have a boat or charter one. Dolphin fishing is lots of fun, and **there are several tournaments coming up in June** everywhere from Key Largo down to Key West. Watersports are a part of the lifestyle down here, so if you're coming down, check out one of those tournaments.
+It's a great time to get out whether you have a boat or charter one. Dolphin fishing is lots of fun, and **there are [several tournaments](https://www.florida-keys-vacation.com/Florida-Keys-Fishing-Tournaments.html){: target="_blank" rel="noopener"} coming up in June** everywhere from Key Largo down to Key West. Watersports are a part of the lifestyle down here, so if you're coming down, check out one of those tournaments.
 
-If you ever have any real estate questions you can feel free to give me a call at (305) 481-3317 or call Lela at 305-395-0814. You can visit our website at [floridakeyshomes.com](http://floridakeyshomes.com). Have a great day. We look forward to talking with you soon.
+If you ever have any real estate questions you can feel free to give me a call at (305) 481-3317 or call Lela at 305-395-0814. You can visit our website at [searchfloridakeyshomes.com](https://www.searchfloridakeyshomes.com/){: target="_blank" rel="noopener"}. Have a great day. We look forward to talking with you soon.
