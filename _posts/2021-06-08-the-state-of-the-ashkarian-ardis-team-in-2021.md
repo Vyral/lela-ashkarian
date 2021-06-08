@@ -1,11 +1,12 @@
 ---
 layout: post
 title: The State of the Ashkarian Ardis Team in 2021
-date: 2021-06-08 20:16:25
+date: 2021-06-08 20:16:00
 tags:
   - Real Estate
 excerpt: Here’s a quick look at how our team has fared over the past 18 months.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lela+Ashkarian/Videos/2021/The+State+of+the+Ashkarian+Ardis+Team+in+2021.mp4
 pullquote: Our team’s growth is going to allow us to help even more of you.
 enclosure_type: video/mp4
 enclosure_time:
