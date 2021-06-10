@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The State of the Ashkarian Ardis Team in 2021
+title: The State of the Ashkarian/Ardis Team in 2021
 date: 2021-06-08 20:16:00
 tags:
   - Real Estate
@@ -18,9 +18,9 @@ youtube_code: _sZYTDHeL-o
 
 Today I wanted to give you a quick update on how our team fared in 2020 and how we’re faring so far in 2021.
 
-First of all, I want to say thanks to all of our past customers and clients for their support over the past year and a half. 2020 was a trying time for all of us, but the Ashkarian Ardis Team was able to persevere with the help of our great clients.&nbsp;
+First of all, I want to say thanks to all of our past customers and clients for their support over the past year and a half. 2020 was a trying time for all of us, but the Ashkarian/Ardis Team was able to persevere with the help of our great clients.&nbsp;
 
-**We were very excited to be awarded the title of No. 2 sales agent for our Coldwell Banker office and the Ashkarian Ardis Team was ranked No. 3 in all of Coldwell Banker.** We helped 61 families buy and sell real estate in 2020 and our total dollar volume was $40.8 million&nbsp;
+**We were very excited to be awarded the title of No. 2 sales agent for our Coldwell Banker office and the Ashkarian/Ardis Team was ranked No. 3 in all of Coldwell Banker.** We helped 61 families buy and sell real estate in 2020 and our total dollar volume was $40.8 million&nbsp;
 
 {% include pullquote.html %}
 
