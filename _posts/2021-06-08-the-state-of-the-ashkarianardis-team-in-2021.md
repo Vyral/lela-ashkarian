@@ -20,11 +20,11 @@ Today I wanted to give you a quick update on how our team fared in 2020 and how 
 
 First of all, I want to say thanks to all of our past customers and clients for their support over the past year and a half. 2020 was a trying time for all of us, but the Ashkarian/Ardis Team was able to persevere with the help of our great clients.&nbsp;
 
-**We were very excited to be awarded the title of No. 2 sales agent for our Coldwell Banker office and the Ashkarian/Ardis Team was ranked No. 3 in all of Coldwell Banker.** We helped 61 families buy and sell real estate in 2020 and our total dollar volume was $40.8 million&nbsp;
+**We were very excited to be awarded the title of No. 2 sales agent for our Coldwell Banker office and the Ashkarian/Ardis Team was ranked No. 3 in all of Coldwell Banker.** We helped 61 families buy and sell real estate in 2020 and our total dollar volume was $40.8 million.
 
 {% include pullquote.html %}
 
-This year has been pretty busy as we reach the halfway point of 2021. We still have extremely low inventory and extremely high demand, which is keeping sellers active. Interest rates have stayed low, which is bringing even more buyers to the market. So far, we’ve closed 28 transactions for $21 million in volume this year.
+This year has been pretty busy as we reach the halfway point of 2021. We still have extremely low inventory and extremely high demand, which is keeping sellers active. Interest rates have stayed low, which is bringing even more buyers to the market. So far, we’ve closed 32 transactions for $21 million in volume this year.
 
 We’ve also hired a transaction coordinator named Michelle Van Heus to assist us. We’re very excited to have her on our team to be able to give our clients even better service. She started in March and has been an extremely big help to our team.
 
