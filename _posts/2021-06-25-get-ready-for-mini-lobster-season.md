@@ -15,7 +15,7 @@ youtube_code: AmuGByRqaGs
 
 {% include excerpt.html %}
 
-Today I’m talking about the upcoming mini lobster season. I'm sure most of you know what mini lobster season is or you have come down to the Keys to enjoy it. The season is always on the last Wednesday and Thursday of July. It occurs before the commercial lobstermen are allowed to set their traps. Go to the <u><a target="_blank" rel="noopener" href="https://www.eregulations.com/florida/fishing/saltwater/crustaceans-mollusks/">FWC&rsquo;s website</a></u> for exact rules and regulations, but here are a few important reminders:
+Today I’m talking about the upcoming mini lobster season. I'm sure most of you know what mini lobster season is or you have come down to the Keys to enjoy it. The season is always on the last Wednesday and Thursday of July. It occurs before the commercial lobstermen are allowed to set their traps. You can visit the&nbsp;<u><a target="_blank" rel="noopener" href="https://www.eregulations.com/florida/fishing/saltwater/crustaceans-mollusks/">FWC&rsquo;s website</a></u> for the exact rules and regulations, but here are a few important reminders:
 
 **1\. Make sure you have your fishing license** with an added lobster permit.
 
