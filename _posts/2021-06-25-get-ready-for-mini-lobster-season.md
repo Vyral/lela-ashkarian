@@ -29,4 +29,4 @@ Today I’m talking about the upcoming mini lobster season. I'm sure most of you
 
 **5\. Stay away from prohibited areas**. These include John Pennekamp Coral Reef State Park and the Everglades National Park.
 
-It's a great time to harvest some lobsters for dinner. Stay proactive and be safe. If you have any questions, please feel free to reach out to us. Natalie is at (305) 481-3317 and Lela is at (305) 395-0814. If you’re searching for properties, check out our website at <u><a target="_blank" rel="noopener" href="https://floridakeyshomes.com/">floridakeyshomes.com</a></u>.
+It's a great time to harvest some lobsters for dinner. Stay proactive and be safe. If you have any questions, please feel free to reach out to us. Natalie is at (305) 481-3317 and Lela is at (305) 395-0814. If you’re searching for properties, check out our website at <u><a target="_blank" rel="noopener" href="https://www.searchfloridakeyshomes.com/">SearchFloridaKeysHomes.com</a></u>.
