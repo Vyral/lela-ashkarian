@@ -4,7 +4,7 @@ title: Get Ready For Mini Lobster Season
 date: 2021-06-25 00:00:00
 excerpt: Remember these for the fast-approaching mini lobster season.
 enclosure:
-pullquote:
+pullquote: The season is always on the last Wednesday and Thursday of July.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -15,11 +15,13 @@ youtube_code: AmuGByRqaGs
 
 {% include excerpt.html %}
 
-Today I’m talking about the upcoming mini lobster season. I'm sure most of you know what mini lobster season is or if you have actually come down to the Keys to enjoy it. The season is always on the last Wednesday and Thursday of July. This mini-season occurs before the commercial lobstermen are allowed to set their traps. Go to the <u><a target="_blank" rel="noopener" href="https://www.eregulations.com/florida/fishing/saltwater/crustaceans-mollusks/">FWC&rsquo;s website</a></u> for exact rules and regulation, but here are a few important reminders:
+Today I’m talking about the upcoming mini lobster season. I'm sure most of you know what mini lobster season is or you have come down to the Keys to enjoy it. The season is always on the last Wednesday and Thursday of July. It occurs before the commercial lobstermen are allowed to set their traps. Go to the <u><a target="_blank" rel="noopener" href="https://www.eregulations.com/florida/fishing/saltwater/crustaceans-mollusks/">FWC&rsquo;s website</a></u> for exact rules and regulations, but here are a few important reminders:
 
-**1\. Make sure you've got your fishing license** with an added lobster permit.
+**1\. Make sure you have your fishing license** with an added lobster permit.
 
 **2\. Your daily bag limit**. This is going to be six per person in Monroe county.
+
+{% include pullquote.html %}
 
 **3\. Minimum size**. You need to measure the lobsters in the water. The carapace must be larger than three inches.
 
