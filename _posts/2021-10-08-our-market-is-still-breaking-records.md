@@ -27,6 +27,6 @@ I always say that listings and sales have an inverse relationship. **We’re hav
 
 **The number of pending sales is a good projection for future closed sales.** For that, we were at 376 homes, which is down about 34%. We think this is because the shutdown really pushed the busy season into the fall last year. We’re looking to see if that continues this year or if we pick back up with the normal yearly trends.
 
-I know these updates throw a lot of numbers at you, so please take a look at this chart if you want a bit more detail. But feel free to call me, my partner, or [visit our website](https://www.searchfloridakeyshomes.com/) if you have any questions. We’d be happy to help.&nbsp;
+I know these updates throw a lot of numbers at you. But feel free to call us, or [visit our website](https://www.searchfloridakeyshomes.com/) if you would like more details or have any questions. We’d be happy to help.&nbsp;
 
 {% include excerpt.html %}
