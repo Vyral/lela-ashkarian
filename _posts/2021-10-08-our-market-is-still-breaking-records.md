@@ -21,6 +21,8 @@ youtube_code: 5VfelIsvR8k
 
 Today I’m bringing you a Florida Keys market update. Our market has continued to grow throughout this year. 2020 was a record-setting year, but it looks like this year is already going to top that. Keep in mind that these are the Keys-wide numbers, but there will be a more detailed chart with all the data for the submarkets.
 
+[**Click Here to Get a Copy of The Market Stats**](https://vyralmarketing.s3.amazonaws.com/Lela+Ashkarian/YTD+Jan-August+21+market+stats+&#40;1&#41;.pdf){: target="_blank" rel="noopener"}
+
 At the end of August, 3,179 homes sold, which is a 62% increase from last year. **The average sales price increased 27% from $668,000 in 2020 to $853,000.** A number that personally blew me away was the total dollar volume of our sales. That’s sitting at $2.7 billion right now. Yes—billion\! That has doubled from the same time in 2020. Our days on market came down to 90 days from about 120 days last year.&nbsp;
 
 I always say that listings and sales have an inverse relationship. **We’re having record sales because our listings are so low.** We have 1,263 active listings right now which is down 41.9% from last year.&nbsp;
