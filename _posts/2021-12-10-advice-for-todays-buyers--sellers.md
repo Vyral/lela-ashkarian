@@ -7,7 +7,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here’s how buyers and sellers should manage their expectations in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lela+Ashkarian/Lela+and+Natalie_Managing+Market+Expectations.mp4
 pullquote: >-
   Sellers need to manage their expectations in terms of what they think they can
   get when they price their homes.
