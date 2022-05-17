@@ -16,11 +16,11 @@ youtube_code: To1ve8cDEpg
 
 {% include excerpt.html %}
 
-Our mortgage rates were hovering just over 3% at the beginning of this year. Moving into Q2, they’ve continued to rise, and by April 1, rates had hit 5.18% for a 30-year fixed mortgage. That’s a 2% increase over four short months, so how does this affect you? A lot of buyers weren’t sure what rates would do at the start of the year. Some thought they’d stay at 3%, but they’ve obviously increased. That may have impacted some buyers who were waiting and directly affected their purchasing power.&nbsp;
+Our mortgage rates were hovering just over 3% at the beginning of this year. Moving into Q2, they’ve continued to rise, and by April 1, rates had hit 5.18% for a 30-year fixed mortgage. That’s a 2% increase over four short months, so how does this affect you?
 
-{% include pullquote.html %}
+A lot of buyers weren’t sure what rates would do at the start of the year. Some thought they’d stay at 3%, but they’ve obviously increased. That may have impacted some buyers who were waiting and directly affected their purchasing power.
 
-**The last time we saw rates like these was back in 2019**, but even then, they were closer to 4%. It’s been a few years since we’ve had interest rates this high, so we wanted to include this chart, which shows you how interest rates will affect your budget and monthly payment.
+**The last time we saw rates like these was back in 2019**, but even then, they were closer to 4%. It’s been a few years since we’ve had interest rates this high, so we wanted to include this chart, which shows you how interest rates will affect your budget and monthly payment:
 
 ![](/uploads/20220420-nm-eng-1-768x576.png){: width="768" height="576"}
 
@@ -30,4 +30,4 @@ With a $440,000 loan and a 4.75% interest rate, your payment would be $2,295 per
 
 Depending on what type of property you’re purchasing, your lender also might have different products for you. The loan industry isn’t a one-size-fits-all business.&nbsp;
 
-If you ever have any questions, feel free to contact me. You can call me at 305-481-3317 or email me at [natalie@cbschmitt.com](mailto:natalie@cbschmitt.com). You can also reach out to my partner at&nbsp; 305-395-0814 or [Lela@CBSchmitt.com](mailto:Lela@CBSchmitt.com). You can also start your home search on [our website\!](https://www.searchfloridakeyshomes.com/)
+If you ever have any questions, feel free to call me at 305-481-3317 or email me at [natalie@cbschmitt.com](mailto:natalie@cbschmitt.com). You can also reach out to my partner Lela at 305-395-0814 or [Lela@CBSchmitt.com](mailto:Lela@CBSchmitt.com). Additionally, feel free to start your home search on​&nbsp;[our website\!](https://www.searchfloridakeyshomes.com/)
