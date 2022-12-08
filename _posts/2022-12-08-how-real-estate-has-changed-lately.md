@@ -9,7 +9,7 @@ pullquote: These changes in the market affect affordability.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/market-trends-yt.jpg
 youtube_code:
 ---
 {% include youtube.html %}
