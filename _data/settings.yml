@@ -19,25 +19,32 @@ client:
   name: Lela Ashkarian & Natalie Ardis
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     As a Real Estate Top Agent/Consultant for Coldwell Banker Schmitt Real
-    Estate, a prime real estate company of the Florida Keys area, and with over
-    22 years of experience in the industry, Lela is highly regarded by
-    co-workers and clients for her professionalism and keen industry knowledge.
-    On a daily basis, she has primarily engaged in advertising ocean and
-    beachfront properties, generating leads, screening potential buyers, setting
-    up appointments, and researching competitive market prices. That's what this
+    Estate, a prime real estate company of the Florida Keys area, and with 25
+    years of experience in the industry, Lela is highly regarded by co-workers
+    and clients for her professionalism and keen industry knowledge. On a daily
+    basis, she has primarily engaged in advertising ocean and beachfront
+    properties, generating leads, screening potential buyers, setting up
+    appointments, and researching competitive market prices. That's what this
     business is all about for Lela.
 
 
     Natalie attended high school at Marathon High School in the heart of the
-    Florida Keys.  After high school she attended the University of Central
-    Florida with her Associates Degree and received her Bachelors Degree in
-    Marketing from Nova Southeastern University.  Joining Coldwell Banker
-    Schmitt Real Estate Co. in 2010, she was given a wonderful opportunity to
-    help others find their piece of paradise. Natalie has enthusiasm, drive,
-    passion and communication that truly is able to set her apart in the real
-    estate business.
+    Florida Keys. After high school, she attended the University of Central
+    Florida with her Associate's Degree and received her Bachelor's Degree in
+    Marketing from Nova Southeastern University. Joining Coldwell Banker Schmitt
+    Real Estate Co. in 2010, she was given a wonderful opportunity to help
+    others find their piece of paradise. Natalie has enthusiasm, drive, passion,
+    and communication that has truly been able to set her apart in the real
+    estate business over the last 12 years.
+
+
+    The Ashkarian/Ardis Team has a combined 37 years of experience of being
+    persistent and patience with their VIP customers and Clients.
+
+
+    &nbsp;
   brand: Luxury Island Properties
   brokerage: Coldwell Banker - Schmitt Real Estate Co.
   market:
@@ -53,9 +60,9 @@ forms:
   sitekey: 6LePI4YaAAAAAH9Ntd6Q6xQl5b7Gd1RUNVtsfG8Y
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.searchfloridakeyshomes.com/sell/default0003'
+  first_CTA_URL: https://www.searchfloridakeyshomes.com/sell/default0003
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.searchfloridakeyshomes.com/search'
+  second_CTA_URL: https://www.searchfloridakeyshomes.com/search
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -63,13 +70,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'https://www.searchfloridakeyshomes.com/sell/default0003'
+    CTA_url: https://www.searchfloridakeyshomes.com/sell/default0003
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://www.searchfloridakeyshomes.com/search'
+    CTA_url2: https://www.searchfloridakeyshomes.com/search
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -84,7 +91,7 @@ lender:
   url:
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/sellingfloridakeyshomes/'
+  facebook_url: https://www.facebook.com/sellingfloridakeyshomes/
   linkedin_url:
   youtube_url:
   twitter_url:
@@ -140,8 +147,8 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
