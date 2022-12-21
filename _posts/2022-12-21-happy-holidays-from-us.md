@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/christmas-yt-6.jpg
-youtube_code:
+youtube_code: Es0lwnUSZCw
 ---
 {% include youtube.html %}
 
