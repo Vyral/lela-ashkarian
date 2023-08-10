@@ -27,4 +27,4 @@ Are you considering buying a new home or investment property? It is an exciting 
 
 **4\. You’ll gain the real-world experience of your Realtor.** Whether you’re a first-time buyer, an experienced investor, or something in between, the experience of Realtors like me is very valuable. I can help you learn about the different neighborhoods, the rules in each one, and so much more. During a buyer consultation, you can ask all of your questions.&nbsp;
 
-If you're ready for your buyer consultation, please feel free to call me at (305) 481-3317 or [visit my website by clicking here.](https://www.searchfloridakeyshomes.com/) I look forward to talking with you!
+If you're ready for your buyer consultation, please feel free to call me at (305) 481-3317 or [**visit my website by clicking here**.](https://www.searchfloridakeyshomes.com/) I look forward to talking with you!
