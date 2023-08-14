@@ -42,9 +42,6 @@ client:
 
     The Ashkarian/Ardis Team has a combined 37 years of experience of being
     persistent and patience with their VIP customers and Clients.
-
-
-    &nbsp;
   brand: Luxury Island Properties
   brokerage: Coldwell Banker - Schmitt Real Estate Co.
   market:
@@ -121,7 +118,7 @@ podcast:
     buyer
   author: Lela Ashkarian & Natalie Ardis
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/img-6940.jpg
   client_headshot_path2: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
